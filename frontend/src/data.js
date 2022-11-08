@@ -45,7 +45,7 @@ const data = {
             price: 5500,
             countInStock: 1,
             brand: 'Ford',
-            model: '2015'
+            model: 2015,
             kilometrage: 120000,
             adresse: 'Versailles 78000',
             rating: 4,
@@ -54,3 +54,4 @@ const data = {
         },
     ],
 };
+export default data;

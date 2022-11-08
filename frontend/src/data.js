@@ -46,7 +46,7 @@ const data = {
             countInStock: 1,
             brand: 'Ford',
             model: '2015'
-            Kilometrage: '120 000 km',
+            kilometrage: '120 000 km',
             adresse: 'Versailles 78000',
             rating: 4,
             numReviews: 1000,

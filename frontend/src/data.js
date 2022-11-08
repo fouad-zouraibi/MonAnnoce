@@ -31,7 +31,7 @@ const data = {
             category: 'Maison',
             image: '/images/p3.jpg',
             price: 750€,
-            espace: '25m2',
+            surface: '25m2',
             Adresse: '76 rue de meaux, 70020',
             rating: 4.5,
             numReviews: 1200,

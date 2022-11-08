@@ -20,7 +20,7 @@ const data = {
             price: 20,
             countInStock: 2,
             brand: 'IKEA',
-            adresse: '60 rue albert, 70020 '
+            adresse: '60 rue albert, 70020 ',
             rating: 4.5,
             numReviews: 1500,
             description: 'Table de nuits occassion comme neuf ',

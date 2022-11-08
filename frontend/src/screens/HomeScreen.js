@@ -21,7 +21,7 @@ function HomeScreen () {
                             <button>Add to cart</button>
                         </div>
                     </div>
-                ))}
+            ))}
         </div>
     </div>
 );
